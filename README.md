@@ -17,14 +17,22 @@ Focus: real-time systems, WebSockets, backend reliability, product polish.
 
 Live: https:// 
 Repo: https://github.com/Devin-Otto/ourworld
+Repo: ####################TO be added 
 
 Tech: TypeScript, React, Node, WebSockets, PostgreSQL
+
+### Agora AI – Conversational Retail Kiosk
+Built an AI-powered in-store assistant integrating Shopify, Square, and Lightspeed APIs to provide real-time inventory and product location via natural language queries. Designed and deployed Flask backend on AWS EC2 with NLP, fuzzy search, and live POS integration.
+
+Repo: ####################TO be added 
+
 
 ### Beatbound
 Rhythm-based multiplayer battle game with real-time sync, beatmap generation, and audio analysis.
 
 Live: https://beatbound.replit.app  
 Repo: https://github.com/Devin-Otto/beatbound
+Repo: ####################TO be added 
 
 Tech: TypeScript, Web Audio API, WebSockets, Postgres
 
