@@ -1,7 +1,7 @@
 # Devin Otto
 
-Product focused AI and Data Engineer shipping production ML and data systems.  
-Remote first. Relocating to Poland. Open to EOR or contract. US and EU hours overlap.
+Product-focused AI and Data Engineer shipping production ML and data systems.  
+Remote-first. Relocating to Poland. Open to EOR or B2B contract. US and EU hours overlap.
 
 ## What I ship
 - Production ML pipelines and data systems in regulated environments
@@ -12,29 +12,32 @@ Remote first. Relocating to Poland. Open to EOR or contract. US and EU hours ove
 ## Highlighted work
 
 ### ourworld
-Private real-time two-user web application with persistent shared state, chat, inventory, and modular activities.  
+Private, real-time two-user web application with persistent shared state, chat, inventory, and modular activities.  
 Focus: real-time systems, WebSockets, backend reliability, product polish.
 
-Live: https:// 
-Repo: https://github.com/Devin-Otto/ourworld
-Repo: ####################TO be added 
+Live: https://devinandaly.com  
+Repo: https://github.com/Devin-Otto/ourworld  
 
-Tech: TypeScript, React, Node, WebSockets, PostgreSQL
+Tech: TypeScript, React, Node.js, WebSockets, PostgreSQL
+
+---
 
 ### Agora AI – Conversational Retail Kiosk
-Built an AI-powered in-store assistant integrating Shopify, Square, and Lightspeed APIs to provide real-time inventory and product location via natural language queries. Designed and deployed Flask backend on AWS EC2 with NLP, fuzzy search, and live POS integration.
+AI-powered in-store assistant integrating Shopify, Square, and Lightspeed APIs to provide real-time inventory and product location via natural language queries. Built end to end from concept to MVP. Deployed Flask backend on AWS EC2 with NLP, fuzzy search, and live POS integration.
 
-Repo: ####################TO be added 
+Repo: https://github.com/Devin-Otto/agora-ai  
 
+Tech: Python, Flask, AWS, OpenAI API, POS APIs, FAISS
+
+---
 
 ### Beatbound
-Rhythm-based multiplayer battle game with real-time sync, beatmap generation, and audio analysis.
+Rhythm-based multiplayer battle game with real-time sync, procedural beatmap generation, and audio analysis.
 
 Live: https://beatbound.replit.app  
-Repo: https://github.com/Devin-Otto/beatbound
-Repo: ####################TO be added 
+Repo: https://github.com/Devin-Otto/beatbound  
 
-Tech: TypeScript, Web Audio API, WebSockets, Postgres
+Tech: TypeScript, Web Audio API, WebSockets, PostgreSQL
 
 ## Core stack
 Python, SQL, TypeScript  
