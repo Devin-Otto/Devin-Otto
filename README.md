@@ -15,7 +15,7 @@ Remote first. Relocating to Poland. Open to EOR or contract. US and EU hours ove
 Private real-time two-user web application with persistent shared state, chat, inventory, and modular activities.  
 Focus: real-time systems, WebSockets, backend reliability, product polish.
 
-Live: https://devinandaly.com  
+Live: https:// 
 Repo: https://github.com/Devin-Otto/ourworld
 
 Tech: TypeScript, React, Node, WebSockets, PostgreSQL
