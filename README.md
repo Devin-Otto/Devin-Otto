@@ -1,7 +1,7 @@
 # Devin Otto
 
 Product-focused AI and Data Engineer shipping production ML and data systems.  
-Remote-first. Relocating to Poland. Open to EOR or B2B contract. US and EU hours overlap.
+Remote-first. 
 
 ## What I ship
 - Production ML pipelines and data systems in regulated environments
@@ -50,4 +50,3 @@ LLMs, RAG, MLOps patterns
 - GitHub: https://github.com/Devin-Otto
 - LinkedIn: https://www.linkedin.com/in/devinjotto/
 - Email: devinotto26@gmail.com
-- Location: Poland (remote only)
