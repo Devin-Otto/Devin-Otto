@@ -1,7 +1,6 @@
 # Devin Otto
 
 Product-focused AI and Data Engineer shipping production ML and data systems.  
-Remote-first. 
 
 ## What I ship
 - Production ML pipelines and data systems in regulated environments
